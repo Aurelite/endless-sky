@@ -1390,10 +1390,10 @@ ship "Protector" "Protector (Laser)"
 		"Laser Turret" 2
 		"Heavy Laser Turret" 4
 		"Fusion Reactor"
-		"LP036a Battery Pack"
-		"Supercapacitor" 3
-		"D94-YV Shield Generator" 2
-		"Water Coolant System"
+		"LP144a Battery Pack"
+		"D41-HY Shield Generator"
+		"D94-YV Shield Generator"
+		"Cooling Ducts"
 		"A370 Atomic Thruster"
 		"A375 Atomic Steering"
 		"Hyperdrive"
@@ -1405,14 +1405,14 @@ ship "Protector" "Protector (Laser)"
 	turret "Heavy Laser Turret"
 
 
-ship "Protector" "Protector (Proton)"
+ship "Protector" "Protector (Blaster)"
 	outfits
-		"Proton Turret" 6
+		"Quad Blaster Turret" 6
 		"Fusion Reactor"
-		"LP036a Battery Pack"
-		"Supercapacitor" 3
-		"D94-YV Shield Generator" 2
-		"Water Coolant System"
+		"Fission Reaktor"
+		"LP072a Battery Pack"
+		"D94-YV Shield Generator"
+		"Liquid Helium Cooler"
 		"A370 Atomic Thruster"
 		"A375 Atomic Steering"
 		"Hyperdrive"

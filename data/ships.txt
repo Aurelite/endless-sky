@@ -2146,43 +2146,41 @@ ship "Protector"
 		"required crew" 30
 		"bunks" 69
 		"mass" 500
-		"drag" 10.3
+		"drag" 12.3
 		"heat dissipation" .6
 		"fuel capacity" 400
 		"cargo space" 50
-		"outfit space" 570
-		"weapon capacity" 220
-		"engine capacity" 100
+		"outfit space" 550
+		"weapon capacity" 225
+		"engine capacity" 115
 		weapon
 			"blast radius" 160
 			"shield damage" 1600
 			"hull damage" 800
 			"hit force" 2400
 	outfits
-		"Torpedo Launcher" 2
-		"Torpedo" 60
-		"Quad Blaster Turret" 6
+		"Proton Turret" 6
 		
 		"Fusion Reactor"
-		"LP288a Battery Pack"
+		"LP036a Battery Pack"
 		"D67-TM Shield Generator"
-		"Small Radar Jammer" 3
+		"Large Radar Jammer"
 		"Liquid Nitrogen Cooler"
 		
-		"X3700 Ion Thruster"
+		"X4700 Ion Thruster"
 		"X3200 Ion Steering"
 		"Hyperdrive"
 		
 	engine -11 125
 	engine 11 125
-	gun -15 -100 "Torpedo Launcher"
-	gun 15 -100 "Torpedo Launcher"
-	turret -54 -54 "Quad Blaster Turret"
-	turret 54 -54 "Quad Blaster Turret"
-	turret -73 0 "Quad Blaster Turret"
-	turret 73 0 "Quad Blaster Turret"
-	turret -54 54 "Quad Blaster Turret"
-	turret 54 54 "Quad Blaster Turret"
+	gun -15 -100
+	gun 15 -100
+	turret -54 -54 "Proton Turret"
+	turret 54 -54 "Proton Turret"
+	turret -73 0 "Proton Turret"
+	turret 73 0 "Proton Turret"
+	turret -54 54 "Proton Turret"
+	turret 54 54 "Proton Turret"
 	explode "tiny explosion" 18
 	explode "small explosion" 36
 	explode "medium explosion" 24

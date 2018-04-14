@@ -287,7 +287,7 @@ fleet "Large Core Merchants"
 		"Protector (Laser)" 1
 	variant 2
 		"Freighter" 4
-		"Protector (Proton)" 1
+		"Protector (Blaster)" 1
 	variant 10
 		"Bulk Freighter" 2
 		"Protector" 1
@@ -299,7 +299,7 @@ fleet "Large Core Merchants"
 		"Protector (Laser)" 1
 	variant 1
 		"Bulk Freighter (Proton)" 2
-		"Protector (Proton)" 1
+		"Protector (Blaster)" 1
 	variant 1
 		"Bulk Freighter (Heavy)" 2
 		"Vanguard (Particle)" 1
@@ -1451,7 +1451,7 @@ fleet "Large Syndicate"
 	variant 1
 		"Protector (Laser)"
 	variant 1
-		"Protector (Proton)"
+		"Protector"
 	variant 1
 		"Protector"
 		"Quicksilver" 2
@@ -1459,7 +1459,7 @@ fleet "Large Syndicate"
 		"Protector (Laser)"
 		"Quicksilver (Proton)" 2
 	variant 1
-		"Protector (Proton)"
+		"Protector"
 		"Quicksilver (Proton)" 2
 	variant 1
 		"Vanguard (Particle)"
